@@ -1,3 +1,5 @@
+// Test comment
+
 (function (window) {
 	'use strict';
 
